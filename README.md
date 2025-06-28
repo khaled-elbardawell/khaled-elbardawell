@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Software Engineer | Full-Stack Developer (Laravel & Vue.js) <br/>
-  🧠 5+ years experience building scalable web apps and LMS/ERP platforms <br/>
+  🧠 7+ years experience building scalable web apps and LMS/ERP platforms <br/>
   🌍 Based in Palestine | Passionate about clean architecture, performance, and real-time apps
 </p>
 
