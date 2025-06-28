@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Software Engineer | Full-Stack Developer (Laravel & Vue.js) <br/>
-  🧠 7+ years experience building scalable web apps and LMS/ERP platforms <br/>
+  🧠 6+ years experience building scalable web apps and LMS/ERP platforms <br/>
   🌍 Based in Palestine | Passionate about clean architecture, performance, and real-time apps
 </p>
 
@@ -26,7 +26,7 @@ Dedicated and skilled software engineer with strong experience in web developmen
 
 ## 💼 Professional Experience
 
-### Backend Developer — Bakkah Company (Saudi Arabia) | 2021–2024  
+### Backend Developer — Bakkah Company (Saudi Arabia) | 2021–2025  
 - Developed LMS, ERP, CMS, and Survey Builder systems with Laravel  
 - Implemented real-time notifications and chat using WebSockets  
 - Worked on system analysis, SEO improvements, and software maintenance  
