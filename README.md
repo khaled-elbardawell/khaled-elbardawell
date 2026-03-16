@@ -26,7 +26,7 @@ Dedicated and skilled software engineer with strong experience in web developmen
 
 ## 💼 Professional Experience
 
-### Backend Developer — Bakkah Company (Saudi Arabia) | 2021–2025  
+### Backend Developer — Bakkah Company (Saudi Arabia) | 2021–Present  
 - Developed LMS, ERP, CMS, and Survey Builder systems with Laravel  
 - Implemented real-time notifications and chat using WebSockets  
 - Worked on system analysis, SEO improvements, and software maintenance  
@@ -39,7 +39,7 @@ Dedicated and skilled software engineer with strong experience in web developmen
 - Built 100+ projects: dynamic responsive websites, e-commerce, and ML integration  
 - Delivered client-focused web solutions with SEO best practices  
 
-### Instructor — Ministry of Education, Palestine | 2020–Present  
+### Instructor — Ministry of Education, Palestine | 2020–2022  
 - Trained secondary school students on Front-End Web Development (HTML, CSS, JS, Bootstrap)  
 
 ---
