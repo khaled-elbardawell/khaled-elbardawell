@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Khaled Elbardawell</h1>
+<h1 align="center">Hi 👋, I'm Khaled Albardaweel</h1>
 
 <p align="center">
   💻 Software Engineer | Full-Stack Developer (Laravel & Vue.js) <br/>
-  🧠 6+ years experience building scalable web apps and LMS/ERP platforms <br/>
+  🧠 7+ years experience building scalable web apps and LMS/ERP platforms <br/>
   🌍 Based in Palestine | Passionate about clean architecture, performance, and real-time apps
 </p>
 
@@ -64,7 +64,7 @@ Dedicated and skilled software engineer with strong experience in web developmen
 
 - ✉️ elbardawellkhaled@gmail.com  
 - 📞 +972 598 369581 (WhatsApp)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/khaled-elbardawell-902757221/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khaled-albardaweel-13203441b/)  
 - 🔗 [GitHub](https://github.com/khaled-elbardawell)  
 - 🔗 [Facebook](https://www.facebook.com/khaled.elbardwell)  
 - 🔗 [Instagram](https://www.instagram.com/khaled_elbardawell)  
